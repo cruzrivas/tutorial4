@@ -18,4 +18,4 @@ else {
     console.log(`That input is not valid. Please try again.`);
 }
 
-console.log("Rivas's Output from Tutorial 4 Example 2");
+console.log("Rivas's Output from Problem 2");

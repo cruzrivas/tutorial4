@@ -26,4 +26,4 @@ switch(day) {
     console.log(`Your input was invalid. Please try again.`)
 }
 
-console.log("Rivas's Output from Example 3");
+console.log("Rivas's Output from Problem 3");

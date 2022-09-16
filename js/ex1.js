@@ -6,4 +6,4 @@ if (number >= 0 && number <=100) {
     console.log(`Sorry, ${number} is not a valid entry`);
 }
 
-console.log("Rivas's Output from Tutorial 4 Example 1");
+console.log("Rivas's Output from Problem 1");
