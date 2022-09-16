@@ -1,6 +1,7 @@
 /* Tutorial 4
    Example 1 JavaScript code
-*/var day = prompt(`Enter the first three letters (lowercase) of the current day: `);
+*/
+var day = prompt(`Enter the first three letters (lowercase) of the current day: `);
 switch(day) {
     case "mon":
         console.log(`You entered: Monday\nThe following day is: Tuesday`);
