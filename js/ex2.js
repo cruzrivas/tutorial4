@@ -1,6 +1,4 @@
-/* Tutorial 4
-   Example 2 JavaScript code
-*/
+
 var studentName = prompt("Enter your name: ");
 const number2 = Number(prompt("Enter number of credits:"));
 console.log('Hello ' + studentName)
